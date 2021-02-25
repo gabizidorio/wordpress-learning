@@ -1,0 +1,48 @@
+[24-Feb-2021 14:51:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_head() in C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-content\themes\rest\header.php:9
+Stack trace:
+#0 C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-includes\template.php(730): require_once()
+#1 C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-includes\template.php(676): load_template('C:\\Users\\Gabrie...', true, Array)
+#2 C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-content\themes\rest\index.php(1): get_header()
+#4 C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Gabrie...')
+#5 C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-bl in C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-content\themes\rest\header.php on line 9
+[24-Feb-2021 14:51:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_head() in C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-content\themes\rest\header.php:9
+Stack trace:
+#0 C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-includes\template.php(730): require_once()
+#1 C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-includes\template.php(676): load_template('C:\\Users\\Gabrie...', true, Array)
+#2 C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-content\themes\rest\index.php(1): get_header()
+#4 C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Gabrie...')
+#5 C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-bl in C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-content\themes\rest\header.php on line 9
+[24-Feb-2021 14:51:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_head() in C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-content\themes\rest\header.php:9
+Stack trace:
+#0 C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-includes\template.php(730): require_once()
+#1 C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-includes\template.php(676): load_template('C:\\Users\\Gabrie...', true, Array)
+#2 C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-content\themes\rest\index.php(1): get_header()
+#4 C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Gabrie...')
+#5 C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-bl in C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-content\themes\rest\header.php on line 9
+[24-Feb-2021 14:51:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_head() in C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-content\themes\rest\header.php:9
+Stack trace:
+#0 C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-includes\template.php(730): require_once()
+#1 C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-includes\template.php(676): load_template('C:\\Users\\Gabrie...', true, Array)
+#2 C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-content\themes\rest\index.php(1): get_header()
+#4 C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Gabrie...')
+#5 C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-bl in C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-content\themes\rest\header.php on line 9
+[24-Feb-2021 14:51:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_head() in C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-content\themes\rest\header.php:9
+Stack trace:
+#0 C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-includes\template.php(730): require_once()
+#1 C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-includes\template.php(676): load_template('C:\\Users\\Gabrie...', true, Array)
+#2 C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-content\themes\rest\index.php(1): get_header()
+#4 C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Gabrie...')
+#5 C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-bl in C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-content\themes\rest\header.php on line 9
+[24-Feb-2021 14:51:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_head() in C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-content\themes\rest\header.php:9
+Stack trace:
+#0 C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-includes\template.php(730): require_once()
+#1 C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-includes\template.php(676): load_template('C:\\Users\\Gabrie...', true, Array)
+#2 C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-content\themes\rest\index.php(1): get_header()
+#4 C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Gabrie...')
+#5 C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-bl in C:\Users\Gabriela\Desktop\Programming\Studies\Wordpress\sites\testewp\app\public\wp-content\themes\rest\header.php on line 9
