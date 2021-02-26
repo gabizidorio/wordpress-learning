@@ -10,8 +10,18 @@
 			<?php
 				//Uso em outras páginas
 				$sobre = get_page_by_title('Sobre')->ID;
-				echo get_post_meta($sobre, 'valores', true);
+				echo get_post_meta($sobre, 'historia', true);
 			?>
+
+			<?php $contato = get_page_by_title('Contato')->ID; ?>
+
+			<?php
+				$home = get_page_by_title('Menu da Semana')->ID;
+				$post_hello = 1;
+			?>
+
+			<p><?php echo get_post_meta($home, 'comida', true); ?></p>
+			<p><?php echo get_post_meta($home, 'comida', true); ?></p>
 
 			<div class="grid-16">
 				<a href="https://www.google.com.br/maps" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/img/rest-mapa.jpg" alt="Fachada do Rest"></a>
